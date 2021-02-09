@@ -1,0 +1,8 @@
+const groupID = '';
+const friends = GetCheckedAccounts('#search_results>.selectable');
+
+InviteUserToGroup(null, groupID, friends);
+
+https://steamcommunity.com/groups/xxx/memberslistxml?xml=1
+
+bu linkten xxx yerine grubunuzun kısaltmasını yazacaksınız açılan sayfadan group id yi bulabilirsiniz
